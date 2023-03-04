@@ -1,0 +1,10 @@
+.reviewText {
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    text-transform: none;
+  }
+  .reviewBox {
+    margin-top: 40px;
+  }

@@ -1,0 +1,21 @@
+.actorList {
+    display: flex;
+    flex-direction: column;
+    max-width: 10%;
+  }
+
+  .actorBox {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .actorImg {
+    height: 200px;
+  }
+  
+  .actorName {
+    font-size: 18px;
+    text-align: center;
+  }
+  

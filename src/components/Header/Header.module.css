@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    align-items: center;
+    column-gap: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #fff;
+    color: #000;
+    box-shadow: 2px 4px 8px 2px #925b36;
+    text-shadow: 1px 1px 1px #43456d;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+
+  
+  nav {
+    display: flex;
+    column-gap: 15px;
+  }
+  
+  .navLink {
+    color: #000;
+    transition: color 250ms ease;
+    text-decoration: none;
+  }
+  
+  .navLink:focus,
+  .navLink:hover {
+    color: red;
+  }
+  
